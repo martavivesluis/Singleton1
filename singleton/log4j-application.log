@@ -1,0 +1,13 @@
+2017-10-25 10:51:58 INFO  SingletonTest:16 - test iniciat
+2017-10-25 10:51:58 INFO  SingletonTest:30 - OUT : Continua
+2017-10-25 10:51:58 INFO  SingletonTest:23 - test completat amb èxit
+2017-10-25 10:51:58 INFO  SingletonTest:16 - test iniciat
+2017-10-25 10:51:58 INFO  SingletonTest:23 - test completat amb èxit
+2017-10-25 10:54:26 INFO  SingletonTest:16 - test iniciat
+2017-10-25 10:54:27 INFO  SingletonTest:30 - OUT : Continua
+2017-10-25 10:54:27 INFO  SingletonTest:23 - test completat amb èxit
+2017-10-25 10:54:27 INFO  SingletonTest:16 - test iniciat
+2017-10-25 10:54:27 INFO  SingletonTest:23 - test completat amb èxit
+2017-10-25 10:54:34 INFO  MyResourceBundle:17 -  Continua 
+2017-10-25 10:54:34 INFO  MyResourceBundle:20 -  continue 
+2017-10-25 10:54:34 INFO  MyResourceBundle:23 -  continuar 
